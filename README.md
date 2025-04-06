@@ -25,7 +25,7 @@ I'm currently studying **Medical Informatics at FHNW** and working as an **ICT s
 ## 🤝 Let's connect
 
 I'm always up for cool ideas, interesting challenges, or just a friendly tech chat.  
-📫 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/emre-yasar/) or right here on GitHub!
+📫 Feel free to reach out via [LinkedIn](www.linkedin.com/in/emre-yasar-profil/) or right here on GitHub!
 
 ---
 
