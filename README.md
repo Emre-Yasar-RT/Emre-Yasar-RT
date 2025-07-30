@@ -1,28 +1,33 @@
-# Hey, I'm Emre Yasar!
+# Emre Yasar
 
 Welcome to my GitHub profile!
 
-I'm currently studying **Medical Informatics at FHNW** and working as an **ICT supporter at the University of Basel**. In my free time, I refurbish and sell used computers – not just for sustainability, but to give good tech a second life and make it accessible again.
+I recently **completed my Bachelor’s Thesis** in Medical Informatics at FHNW and am currently awaiting the evaluation of my results. In parallel, I continue to work as an **ICT Supporter at the University of Basel**. Outside work, I refurbish and sell used computers—combining sustainability with giving tech a second life.
 
-## What I do
+## 🎓 Education & Thesis
 
-- **Bachelor Thesis**: Developing an **Orthanc plugin** that scans DICOM files for keywords and email addresses, generates ZIP downloads with optional password protection, and handles secure archiving.
-- **Fullstack Projects**: Building medical imaging web apps using **React**, **Spring Boot**, **Keycloak**, **Docker**, and **NGINX** – from backend to frontend with secure access.
-- **Authentication & Security**: Deep integration of Keycloak (even without client secrets), OAuth2-proxy setups, and secure Blob-based image loading.
-- **Monitoring & DevOps**: Integrated **Prometheus**, **Grafana**, **cAdvisor**, and GitLab CI/CD to monitor systems, containers, and application health without server-side modifications.
-- **Bioinformatics & Image Analysis**: Experienced in working with DNA/plasmid sequences, pattern recognition, and annotation tools for biological data.
+- **Bachelor’s Degree in Medical Informatics**, FHNW (2025)  
+  Thesis: “Development of an Orthanc Plugin for Automated DICOM Keyword and Email Extraction”  
+  - Scans DICOM files for specific keywords and email addresses  
+  - Generates ZIP downloads with optional password protection  
+  - Implements secure archiving and audit logging  
 
-## Tools & Technologies I work with
+## 💻 What I Do
 
-> I prefer clean, minimalistic setups – as long as they’re solid and reliable.
+- **Full-Stack Web Apps** for medical imaging: React, Spring Boot, Keycloak, Docker, NGINX  
+- **Authentication & Security**: Deep Keycloak integration, OAuth2-proxy setups, secure Blob-based image delivery  
+- **Monitoring & DevOps**: Prometheus, Grafana, cAdvisor, GitLab CI/CD—no server-side code changes required  
+- **Bioinformatics & Image Analysis**: DNA/plasmid sequence work, pattern recognition, annotation tooling  
 
-- **Languages**: Java, Python, JavaScript, Bash, C++
-- **Frameworks**: Spring Boot, React
-- **DevOps**: Docker, GitLab CI/CD, NGINX, Linux
-- **Databases**: PostgreSQL, MySQL
-- **Other Tools**: Orthanc, DICOM, Keycloak, Prometheus, Grafana
+## 🔧 Tools & Technologies
 
-## Let's connect
+- **Languages**: Java, Python, JavaScript, Bash, C++  
+- **Frameworks**: Spring Boot, React  
+- **DevOps**: Docker, GitLab CI/CD, NGINX, Linux  
+- **Databases**: PostgreSQL, MySQL  
+- **Other**: Orthanc, DICOM, Keycloak, Prometheus, Grafana  
 
-I'm always up for cool ideas, interesting challenges, or just a friendly tech chat.  
-Feel free to reach out via [LinkedIn](www.linkedin.com/in/emre-yasar-profil/) or right here on GitHub!
+## 🤝 Let’s Connect
+
+Always up for new ideas, challenges, or a friendly tech chat!  
+[LinkedIn](https://www.linkedin.com/in/emre-yasar-profil/) | emre.yasar@unibas.ch
